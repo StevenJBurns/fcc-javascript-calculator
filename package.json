@@ -1,0 +1,20 @@
+{
+  "name": "fcc-javascript-calculator",
+  "version": "0.1.0",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenJBurns/fcc-javascript-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StevenJBurns/fcc-javascript-calculator/issues"
+  },
+  "homepage": "https://github.com/StevenJBurns/fcc-javascript-calculator#readme",
+  "keywords": []
+}
